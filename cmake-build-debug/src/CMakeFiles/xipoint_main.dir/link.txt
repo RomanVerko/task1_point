@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++         -std=gnu++11 -DWINVER=0x0500 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -mmacosx-version-min=10.14 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/xipoint_main.dir/main.cpp.o CMakeFiles/xipoint_main.dir/xipoint.cpp.o  -o xipoint_main 

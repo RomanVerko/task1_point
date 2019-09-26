@@ -23,11 +23,10 @@ int main(int argc, char** argv)
 {
     using namespace xi;
 
-    std::cout << "Hello, world!";
 
-    Point p;
-    Point p1(1, 1);
-    PointArray ar1;
+
+
+
 
     //std::getchar();
 
